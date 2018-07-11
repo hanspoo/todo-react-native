@@ -7,7 +7,7 @@ clone the repo and cd to it, then:
 yarn install  
 yarn start
 
-To actually see something you will need and device or an emulator configurated, you can start installing genymotion.
+To actually see something you will need to configure a device or an emulator, genymotion is cool to start with.
 
 I have more info in configuring the environment in http://www.welinux.cl/wordpress/react-native-on-ubuntu/
 
