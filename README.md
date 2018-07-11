@@ -4,7 +4,7 @@ This project was created during a live coding session in Socrates Santiago de Ch
 
 clone the repo and cd to it, then:
 
-yarn install
+yarn install  
 yarn start
 
 To actually see something you will need and device or an emulator configurated, you can start installing genymotion.
